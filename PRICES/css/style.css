@@ -1,0 +1,19 @@
+#second{
+    background-color: rgb(181, 201, 197);
+}
+
+#second .row h2,h4,p{
+    text-align: center;
+}
+
+.one{
+    border: 2px solid rgb(43, 43, 252);
+}
+
+#third{
+    background-color: rgb(255, 255, 255);
+}
+
+#fourth{
+    background-color: rgb(157, 163, 163);
+}
